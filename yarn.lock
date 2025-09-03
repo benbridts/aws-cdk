@@ -48,10 +48,10 @@
     "@jridgewell/gen-mapping" "^0.3.5"
     "@jridgewell/trace-mapping" "^0.3.24"
 
-"@aws-cdk/asset-awscli-v1@2.2.242":
-  version "2.2.242"
-  resolved "https://registry.npmjs.org/@aws-cdk/asset-awscli-v1/-/asset-awscli-v1-2.2.242.tgz#235cb25b6d1ad26975b0095c0d6ee84309adae5c"
-  integrity sha512-4c1bAy2ISzcdKXYS1k4HYZsNrgiwbiDzj36ybwFVxEWZXVAP0dimQTCaB9fxu7sWzEjw3d+eaw6Fon+QTfTIpQ==
+"@aws-cdk/asset-awscli-v1@2.2.250":
+  version "2.2.250"
+  resolved "https://registry.npmjs.org/@aws-cdk/asset-awscli-v1/-/asset-awscli-v1-2.2.250.tgz#9d397fd2ddddee685d5adb8e319cdca2e3eb531c"
+  integrity sha512-OWprXv59KZQxPOV3UsZUZ1MGF/xFTvBr2nWoz+CSnQV84kxnLnwj3wIfAqqVTnELla3tA7mjPXWwK6Fvm0te9w==
 
 "@aws-cdk/asset-node-proxy-agent-v6@^2.1.0":
   version "2.1.0"
@@ -149,13 +149,6 @@
   version "0.0.160"
   resolved "https://registry.npmjs.org/@aws-cdk/service-spec-types/-/service-spec-types-0.0.160.tgz#3c37e324418db15a4820f957b95d282244b1743c"
   integrity sha512-uTSZyc6yBbX7SYSvnPi0EkvGGqUbo2Xc2O2urtNTviv2v9vRROMJNxvWc8QIobDYe+KEP3QcgbZTHKxI0apuKQ==
-  dependencies:
-    "@cdklabs/tskb" "^0.0.3"
-
-"@aws-cdk/service-spec-types@^0.0.155":
-  version "0.0.155"
-  resolved "https://registry.npmjs.org/@aws-cdk/service-spec-types/-/service-spec-types-0.0.155.tgz#a38ad6291700b38ef4f2e763555065811cae6c67"
-  integrity sha512-Z4kwxvQesTkbD33uZorUicIUlHlP8/fVunOa/1LGqwQw55b1gbKiZE+2o3tgm2YIOHMEsP/p1ZjqW71cFtOCyg==
   dependencies:
     "@cdklabs/tskb" "^0.0.3"
 
